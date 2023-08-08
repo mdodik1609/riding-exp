@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ flume-ng-core-1.6.0.jar flume-ng-sdk-1.6.0.jar flume
+ -ng-configuration-1.6.0.jar flume-ng-auth-1.6.0.jar slf4j-api-1.6.1.jar
+  guava-11.0.2.jar jsr305-1.3.9.jar commons-io-2.1.jar commons-codec-1.8
+ .jar log4j-1.2.17.jar slf4j-log4j12-1.6.1.jar commons-cli-1.2.jar commo
+ ns-lang-2.5.jar avro-1.7.4.jar jackson-core-asl-1.8.8.jar jackson-mappe
+ r-asl-1.8.8.jar paranamer-2.3.jar snappy-java-1.0.4.1.jar commons-compr
+ ess-1.4.1.jar xz-1.0.jar avro-ipc-1.7.4.jar velocity-1.7.jar commons-co
+ llections-3.2.1.jar netty-3.5.12.Final.jar joda-time-2.1.jar servlet-ap
+ i-2.5-20110124.jar jetty-util-6.1.26.jar jetty-6.1.26.jar gson-2.2.2.ja
+ r libthrift-0.9.0.jar httpclient-4.1.3.jar commons-logging-1.1.1.jar ht
+ tpcore-4.1.3.jar mina-core-2.0.4.jar
+Rsrc-Main-Class: Main
+Class-Path: .
+
